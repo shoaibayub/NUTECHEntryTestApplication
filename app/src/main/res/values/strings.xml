@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NUTECH Entry Test Application</string>
+    <string name="todo">TODO</string>
+    <string name="nutech_entry_test_application">NUTECH Entry Test Application</string>
+    <string name="enroll">Get yourself enroll into Pakistan\'s best University</string>
+    <string name="all_subjects">All Subjects</string>
+    <string name="next">Next</string>
+    <string name="developed_by_shoaib_f21605030">© Developed by Shoaib F21605030</string>
+    <string name="finish">Finish</string>
+</resources>

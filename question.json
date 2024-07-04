@@ -1,0 +1,542 @@
+[
+  {
+    "id": "1",
+    "questionList": [
+      {
+        "correct": "Google",
+        "options": [
+          "Apple",
+          "Google",
+          "Samsung",
+          "Microsoft"
+        ],
+        "question": "Who owns Android?"
+      },
+      {
+        "correct": "Google Assistant",
+        "options": [
+          "Siri",
+          "Cortana",
+          "Google Assistant",
+          "Alexa"
+        ],
+        "question": "Which assistant does Android use?"
+      },
+      {
+        "correct": "Android 13",
+        "options": [
+          "Oreo",
+          "Pie",
+          "Q",
+          "Android 13"
+        ],
+        "question": "What is the latest version of Android called? (as of 2023)"
+      },
+      {
+        "correct": ".apk",
+        "options": [
+          ".apk",
+          ".exe",
+          ".zip",
+          ".app"
+        ],
+        "question": "Which file extension is used for Android application packages?"
+      },
+      {
+        "correct": "Kotlin",
+        "options": [
+          "Swift",
+          "Kotlin",
+          "Objective-C",
+          "JavaScript"
+        ],
+        "question": "Which programming language is primarily used for Android development?"
+      },
+      {
+        "correct": "Application metadata",
+        "options": [
+          "Application metadata",
+          "User interface design",
+          "Code libraries",
+          "Graphics and animations"
+        ],
+        "question": "What does the 'Manifest' file in an Android app contain?"
+      },
+      {
+        "correct": "Content Provider",
+        "options": [
+          "Intent",
+          "Content Provider",
+          "Service",
+          "Broadcast Receiver"
+        ],
+        "question": "Which component of Android provides the interface for connecting to and managing data from different sources?"
+      },
+      {
+        "correct": "SQLite",
+        "options": [
+          "MySQL",
+          "SQLite",
+          "PostgreSQL",
+          "MongoDB"
+        ],
+        "question": "What is the default Android database for storing data locally?"
+      },
+      {
+        "correct": "Material Design",
+        "options": [
+          "Material Design",
+          "Flat Design",
+          "Metro Design",
+          "Fluent Design"
+        ],
+        "question": "What is the primary design language used in Android called?"
+      },
+      {
+        "correct": "DEX",
+        "options": [
+          "AAPT",
+          "APKTool",
+          "DEX",
+          "JD-GUI"
+        ],
+        "question": "What tool is used to convert Java bytecode into Dalvik bytecode?"
+      }
+    ],
+    "subtitle": "Mobile Operating Systems",
+    "time": "10",
+    "title": "Android"
+  },
+  {
+    "id": "2",
+    "questionList": [
+      {
+        "correct": "Class",
+        "options": [
+          "Class",
+          "Method",
+          "Object",
+          "Constructor"
+        ],
+        "question": "In OOP, what is a blueprint for creating objects?"
+      },
+      {
+        "correct": "Polymorphism",
+        "options": [
+          "Encapsulation",
+          "Inheritance",
+          "Abstraction",
+          "Polymorphism"
+        ],
+        "question": "Which OOP principle allows methods to have the same name but different implementations?"
+      },
+      {
+        "correct": "Abstraction",
+        "options": [
+          "Encapsulation",
+          "Inheritance",
+          "Abstraction",
+          "Polymorphism"
+        ],
+        "question": "What is the concept of hiding internal details and showing only functionalities called?"
+      },
+      {
+        "correct": "Encapsulation",
+        "options": [
+          "Encapsulation",
+          "Inheritance",
+          "Abstraction",
+          "Polymorphism"
+        ],
+        "question": "Which principle of OOP involves wrapping data and code into a single unit?"
+      },
+      {
+        "correct": "Inheritance",
+        "options": [
+          "Encapsulation",
+          "Inheritance",
+          "Abstraction",
+          "Polymorphism"
+        ],
+        "question": "What allows a subclass to use methods and properties of its superclass?"
+      },
+      {
+        "correct": "Method Overriding",
+        "options": [
+          "Method Overloading",
+          "Method Overriding",
+          "Encapsulation",
+          "Abstraction"
+        ],
+        "question": "What is it called when a child class provides a specific implementation of a method that is already defined in its parent class?"
+      },
+      {
+        "correct": "new",
+        "options": [
+          "new",
+          "create",
+          "instantiate",
+          "build"
+        ],
+        "question": "What keyword is used to create an object in most OOP languages?"
+      },
+      {
+        "correct": "Memory allocation",
+        "options": [
+          "Data hiding",
+          "Code reusability",
+          "Memory allocation",
+          "Modularity"
+        ],
+        "question": "Which of the following is not a feature of OOP?"
+      },
+      {
+        "correct": "Is-A",
+        "options": [
+          "Has-A",
+          "Uses-A",
+          "Is-A",
+          "Contains-A"
+        ],
+        "question": "What type of relationship does inheritance represent?"
+      },
+      {
+        "correct": "Abstract Class",
+        "options": [
+          "Abstract Class",
+          "Interface",
+          "Final Class",
+          "Static Class"
+        ],
+        "question": "What is the term for a class that cannot be instantiated directly?"
+      }
+    ],
+    "subtitle": "Object-Oriented Programming",
+    "time": "15",
+    "title": "Programming"
+  },
+  {
+    "id": "3",
+    "questionList": [
+      {
+        "correct": "Hyper Text Markup Language",
+        "options": [
+          "Hyper Transfer Markup Language",
+          "Hyper Text Makeup Language",
+          "Hyper Text Markup Language",
+          "High Transfer Markup Language"
+        ],
+        "question": "What does HTML stand for?"
+      },
+      {
+        "correct": "JavaScript",
+        "options": [
+          "Java",
+          "Python",
+          "JavaScript",
+          "C++"
+        ],
+        "question": "Which programming language is used for client-side scripting in web development?"
+      },
+      {
+        "correct": "Cascading Style Sheets",
+        "options": [
+          "Cascading Style Sheets",
+          "Computer Style Sheets",
+          "Colorful Style Sheets",
+          "Creative Style Sheets"
+        ],
+        "question": "What does CSS stand for?"
+      },
+      {
+        "correct": "Contains metadata about the document",
+        "options": [
+          "Defines the main content of the document",
+          "Contains metadata about the document",
+          "Specifies a header for a document",
+          "Defines a section that is quoted from another source"
+        ],
+        "question": "What is the purpose of the <head> tag in HTML?"
+      },
+      {
+        "correct": "style",
+        "options": [
+          "class",
+          "styles",
+          "font",
+          "style"
+        ],
+        "question": "Which HTML attribute is used to define inline styles?"
+      },
+      {
+        "correct": "GET",
+        "options": [
+          "GET",
+          "POST",
+          "PUT",
+          "DELETE"
+        ],
+        "question": "What is the default method for sending form data in HTML?"
+      },
+      {
+        "correct": "<a>",
+        "options": [
+          "<a>",
+          "<link>",
+          "<href>",
+          "<nav>"
+        ],
+        "question": "Which HTML tag is used to create a hyperlink?"
+      },
+      {
+        "correct": "Asynchronous JavaScript and XML",
+        "options": [
+          "Asynchronous JavaScript and XML",
+          "Advanced Java and XML",
+          "Asynchronous Java and XHTML",
+          "Advanced JavaScript and XHTML"
+        ],
+        "question": "What does the acronym AJAX stand for?"
+      },
+      {
+        "correct": "background-color",
+        "options": [
+          "bgcolor",
+          "color",
+          "background-color",
+          "bg-color"
+        ],
+        "question": "Which CSS property is used to change the background color?"
+      },
+      {
+        "correct": "A model that describes the rectangular boxes generated for elements",
+        "options": [
+          "A layout model that allows for flexible column designs",
+          "A tool for creating responsive web designs",
+          "A design principle for creating grid layouts",
+          "A model that describes the rectangular boxes generated for elements"
+        ],
+        "question": "What is the box model in CSS?"
+      }
+    ],
+    "subtitle": "Web Development",
+    "time": "12",
+    "title": "Web Development"
+  },
+  {
+    "id": "4",
+    "questionList": [
+      {
+        "correct": "Array",
+        "options": [
+          "Array",
+          "Stack",
+          "Queue",
+          "Tree"
+        ],
+        "question": "Which data structure is used to store a fixed-size sequential collection of elements of the same type?"
+      },
+      {
+        "correct": "Binary Search",
+        "options": [
+          "Linear Search",
+          "Binary Search",
+          "Bubble Sort",
+          "Insertion Sort"
+        ],
+        "question": "Which algorithm is used to find an element in a sorted array in logarithmic time?"
+      },
+      {
+        "correct": "Queue",
+        "options": [
+          "Stack",
+          "Queue",
+          "Linked List",
+          "Graph"
+        ],
+        "question": "Which data structure follows the First-In-First-Out (FIFO) principle?"
+      },
+      {
+        "correct": "Push",
+        "options": [
+          "Push",
+          "Pop",
+          "Enqueue",
+          "Dequeue"
+        ],
+        "question": "Which operation adds an element to the top of a stack?"
+      },
+      {
+        "correct": "Depth-First Search",
+        "options": [
+          "Depth-First Search",
+          "Breadth-First Search",
+          "Dijkstra's Algorithm",
+          "Kruskal's Algorithm"
+        ],
+        "question": "Which algorithm is used to traverse a graph in a depthward motion?"
+      },
+      {
+        "correct": "Tree",
+        "options": [
+          "Graph",
+          "Stack",
+          "Queue",
+          "Tree"
+        ],
+        "question": "Which data structure is used to represent hierarchical relationships?"
+      },
+      {
+        "correct": "Linked List",
+        "options": [
+          "Array",
+          "Linked List",
+          "Stack",
+          "Queue"
+        ],
+        "question": "Which data structure consists of nodes where each node contains a data field and a reference to the next node?"
+      },
+      {
+        "correct": "Hash Table",
+        "options": [
+          "Array",
+          "Tree",
+          "Hash Table",
+          "Graph"
+        ],
+        "question": "Which data structure uses a hash function to map keys to values?"
+      },
+      {
+        "correct": "Heap",
+        "options": [
+          "Heap",
+          "Stack",
+          "Queue",
+          "Linked List"
+        ],
+        "question": "Which data structure is commonly used to implement priority queues?"
+      },
+      {
+        "correct": "Merge Sort",
+        "options": [
+          "Quick Sort",
+          "Bubble Sort",
+          "Insertion Sort",
+          "Merge Sort"
+        ],
+        "question": "Which sorting algorithm has a time complexity of O(n log n) and is stable?"
+      }
+    ],
+    "subtitle": "Data Structures and Algorithms",
+    "time": "18",
+    "title": "Data Structures and Algorithms"
+  },
+  {
+    "id": "5",
+    "questionList": [
+      {
+        "correct": "Android Studio",
+        "options": [
+          "Eclipse",
+          "Xcode",
+          "Android Studio",
+          "Visual Studio"
+        ],
+        "question": "Which IDE is primarily used for Android app development?"
+      },
+      {
+        "correct": "Kotlin",
+        "options": [
+          "Swift",
+          "Kotlin",
+          "Objective-C",
+          "JavaScript"
+        ],
+        "question": "Which programming language is officially recommended by Google for Android development?"
+      },
+      {
+        "correct": "User Interface",
+        "options": [
+          "User Interface",
+          "Backend",
+          "Database",
+          "API"
+        ],
+        "question": "What does 'UI' stand for in app development?"
+      },
+      {
+        "correct": "Model-View-Controller",
+        "options": [
+          "Model-View-Controller",
+          "Model-View-Template",
+          "Model-View-ViewModel",
+          "Model-Template-View"
+        ],
+        "question": "What does MVC stand for in software design patterns?"
+      },
+      {
+        "correct": "Fragment",
+        "options": [
+          "Activity",
+          "Service",
+          "Fragment",
+          "Broadcast Receiver"
+        ],
+        "question": "In Android, which component represents a portion of the user interface in an Activity?"
+      },
+      {
+        "correct": "onCreate",
+        "options": [
+          "onCreate",
+          "onStart",
+          "onResume",
+          "onPause"
+        ],
+        "question": "Which method is used to initialize an activity in Android?"
+      },
+      {
+        "correct": "To facilitate communication between components",
+        "options": [
+          "To manage application data",
+          "To facilitate communication between components",
+          "To handle background processes",
+          "To store user preferences"
+        ],
+        "question": "What is the primary function of an Intent in Android?"
+      },
+      {
+        "correct": "activity_main.xml",
+        "options": [
+          "AndroidManifest.xml",
+          "strings.xml",
+          "activity_main.xml",
+          "build.gradle"
+        ],
+        "question": "Which file specifies the layout of an Android application?"
+      },
+      {
+        "correct": "DEX",
+        "options": [
+          "AAPT",
+          "APKTool",
+          "DEX",
+          "JD-GUI"
+        ],
+        "question": "What tool is used to convert Java bytecode into Dalvik bytecode?"
+      },
+      {
+        "correct": "startActivity()",
+        "options": [
+          "startActivity()",
+          "launchActivity()",
+          "openActivity()",
+          "beginActivity()"
+        ],
+        "question": "Which method is used to start a new activity in Android?"
+      }
+    ],
+    "subtitle": "App Development",
+    "time": "10",
+    "title": "App Development"
+  }
+]
